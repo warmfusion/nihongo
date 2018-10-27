@@ -16,8 +16,12 @@ In no particular order...
 | honto | True! Really?
 | Uso | Lies!
 | Dare | who
+| Dare no | whose
 | Kyo(u) | Today
 | kara | From
+| kaisha | company
+| jusho | Address
+| daigaku | university
 
 ## Items
 
@@ -37,6 +41,18 @@ In no particular order...
 | evening | yoru
 | goru | ish
 | han | half past
+| kara | from
+| made | till
+
+### Partials
+
+| Nihongo   | English |
+| -------- | ------ |
+| Ju go-fun | 15 past
+| Yon Ju go-fun | 45 past
+| Juppun | 10 past
+
+> Note: 10,20,30,40,50 past the hour uses Ju _ppun_　（じごぷん）, while 5,15,25,35,45,55 use ju go _fun_ (じごふん)
 
 
 ## Counting

@@ -29,6 +29,11 @@
 | Hai, so desu | Yes, thats right |
 | Arigato | Thanks |
 
+## Times
+
+| Nihongo   | English |
+| --------- | ------- |
+| ____ wa kara desu ka | When does ____ start? |
 
 ## Statements
 
@@ -47,6 +52,7 @@
 | --------- | ------- |
 | 2-nen sei senmon| 2nd year specialist (Student at college)
 | senmon wa nihongo desu | japense language specialist
+
 
 ## Other
 
